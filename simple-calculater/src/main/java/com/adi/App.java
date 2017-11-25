@@ -6,6 +6,8 @@ public class App {
 	
 		Calculater cal = new Calculater();
 		System.out.println(cal.add(2, 2) + "");
+		
+		System.out.println(cal.sub(5, 2));
 	}
 
 }
